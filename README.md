@@ -5,8 +5,8 @@ To make a shitty thing half-right, I upscaled, vectorized and prepared the raven
 
 Thank you, Kate McLelland for this wonderful raven 💖
 
-<img src="vectors/omnious_raven_only.svg" width="300">
-<img src="vectors/omnious_raven_books.svg" width="230">
+<img src="vectors/omnious_raven_only.svg" width="230">
+<img src="vectors/omnious_raven_books.svg" width="300">
 
 ## License
 This sticker set is released under [CC0 1.0](LICENSE).
