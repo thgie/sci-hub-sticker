@@ -16,5 +16,10 @@ Thank you, Kate McLelland for this wonderful raven 💖
 <img src="sticker-sheets/images/humanity-sticker.png" width="360">
 <img src="sticker-sheets/images/swartz-sticker.png" width="360">
 
+- [Sci-Hub Sticker Sheet](sticker-sheets/hama_50450-scihub.pdf)
+- [Aaron Swartz Sticker Sheet](sticker-sheets/hama_50450-swartz.pdf)
+
+The sheets are prepared for the [Avery Zweckform 70x37mm sheets](https://www.avery-zweckform.com/blanko-etiketten/rechteckig-70x37-mm). You could adjust the `.tex` files and adjust the sheets for other formats.
+
 ## Authorship
 This repository's content is released under [CC0 1.0](LICENSE). The *Omnious Raven* was originally drawn by [Kate McLelland](https://katemclelland.com/) and later refurbished by [@thgie](https://post.lurk.org/@thgie), the Sci-Hub and Aaron Swartz sticker sheets were created by [@tolton](https://mastodon.social/@tolton), and the Aaron Swartz illustration was generated through Midjourney.
