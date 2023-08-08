@@ -13,8 +13,9 @@ Thank you, Kate McLelland for this wonderful raven 💖
 ## ✨ Sci-Hub and Aaron Swartz Sticker Sheets ✨
 [Nissa Tolton](https://mastodon.social/@tolton) was so kind and amazing to use the *Omnious Raven* vector files to create a Sci-Hub sticker sheet with quotes from [Alexandra Elbakyan](https://sci-hub.se/alexandra)! Nissa also provided a sticker sheet with quotes from [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz), which fits just right into this repository. Thank you Nissa 💖 
 
-<img src="sticker-sheets/images/humanity-sticker.png" width="360">
-<img src="sticker-sheets/images/swartz-sticker.png" width="360">
+<img src="sticker-sheets/images/humanity-sticker.png" width="300"> 
+<img src="sticker-sheets/images/obstacles-sticker.png" width="300"> 
+<img src="sticker-sheets/images/swartz-sticker.png" width="300">
 
 - [Sci-Hub Sticker Sheet](sticker-sheets/hama_50450-scihub.pdf)
 - [Aaron Swartz Sticker Sheet](sticker-sheets/hama_50450-swartz.pdf)
